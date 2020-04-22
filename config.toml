@@ -1,5 +1,5 @@
 title = "giuseppesamela.com"
-baseURL = "giuseppesamela.com"
+baseURL = "https://giuseppesamela.com"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
