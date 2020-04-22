@@ -1,4 +1,55 @@
-baseURL = ""
-languageCode = "en-us"
 title = "giuseppesamela.com"
+baseURL = ""
 theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Bari, IT"
+workProfile = "Software Engineer"
+email = "giuseppe.samela@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Giuseppe"
+lastName = "Samela"
+profileImage = "img/profile.jpg"
+showEducation = false
+showExperience = false
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = true
+showSkills = false
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "UA-164223983-1"
+
+[[params.handles]]
+link = "https://twitter.com/wasp898"
+name = "Twitter"
+
+[[params.handles]]
+link = "https://www.facebook.com/g.samela"
+name = "Facebook"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/giuseppe-samela-011536137/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/wasp898/"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://bitbucket.org/wasp898/"
+name = "Bitbucket"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
