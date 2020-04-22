@@ -44,10 +44,6 @@ name = "LinkedIn"
 link = "https://github.com/wasp898/"
 name = "GitHub"
 
-[[params.handles]]
-link = "https://bitbucket.org/wasp898/"
-name = "Bitbucket"
-
 [outputs]
 home = ["HTML", "JSON"]
 
