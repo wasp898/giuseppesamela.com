@@ -1,0 +1,26 @@
+[
+    {
+        "school":"[Polytech Nice Sophia](http://www.polytech.unice.fr)",
+        "degree":"Master's Degree",
+        "major":"Computer Science",
+        "notes":"2nd Year International Master UBINET: Ubiquitous Networking and Computing",
+        "thesis":"MASTER THESIS: Virtual Reality - Impact of Content and Transmission Strategies on Network Resources",
+        "range":"2016 - 2017"
+    },
+    {
+        "school":"[Politecnico di Bari](http://www.poliba.it)",
+        "degree":"Master's Degree",
+        "major":"Computer Engineering",
+        "marks":"FINAL MARK: 110/110 e lode (Full marks with honors)",
+        "notes":"Double Degree program: Internet Engineering",
+        "range":"2014 - 2017"
+    },
+    {
+        "school":"[Politecnico di Bari](http://www.poliba.it)",
+        "degree":"Bachelor's Degree",
+        "major":"Computer Engineering",
+        "marks":"FINAL MARK: 106/110",
+        "thesis":"THESIS: Malfunction Detection in Susceptibility Tests on Power Electronic Equipment",
+        "range":"2008 - 2014"
+    }
+]
