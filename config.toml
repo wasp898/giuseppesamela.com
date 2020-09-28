@@ -15,11 +15,11 @@ favicon = "/favicon.ico"
 firstName = "Giuseppe"
 lastName = "Samela"
 profileImage = "img/profile.jpg"
-showExperience = false
 showOpenSource = false
 showProjects = false
 showPublications = false
 showEducation = true
+showExperience = true
 showQr = true
 showSkills = false
 

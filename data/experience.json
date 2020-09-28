@@ -1,0 +1,21 @@
+[
+    {
+        "role":"Software Engineer",
+        "company":"[Quavlive](https://quavlive.com)",
+        "summary":"Quavlive conducts industrial research activities aimed at the design and development of new and innovative video streaming techniques and services for the web including VoD, Live streaming, and video-conferencing. Here are some of my contributions:\n- Had a leading role in the transitioning of the QuavStreams video platform (https://quavstreams.quavlive.com/) to the Angular development framework \n- Re-designed the company’s website from scratch (https://quavlive.com)\n- Was responsible for anything related to iOS/macOS in our video solutions\n- Was heavily involved in the writing of two relevant European project proposals",
+        "range":"July 2018 - Present",
+        "knowledge":""
+    },
+    {
+        "role":"Researcher",
+        "company":"[Politecnico di Bari](http://www.poliba.it)",
+        "summary":"After winning a Post-Lauream scholarship, I joined a project called 'CLIPS - a Cloud based pLatform for Immersive adaPtive video Streaming', aimed at creating an innovative platform for distributing immersive video content (360°) in the web. Here are some of the main activities I was involved with:\n- Co-authored a paper showcasing an innovative 360-degree video streaming approach involving video rescaling and multi-view automatic video switching\n- Defined a custom encoding format for panoramic videos, and a presentation format for the video content (in compliance with MPEG-DASH, and HLS standards)\n- Implemented the aforementioned 360-degree video platform (in particular the Encoder and the Player)\n- Extended the Google video streaming framework ShakaPlayer (that is used inside the Player) to introduce arbitrary buffer depletion (https://github.com/google/shaka-player)\n- Attended the international ACM Multimedia Systems Conference 2018 (MMSYS) in Amsterdam, where we presented a Demo of the immersive platform",
+        "range":"November 2017 - June 2018"
+    },
+    {
+        "role":"Research Intern",
+        "company":"[I3S / CNRS](https://www.linkedin.com/company/i3s-cnrs/)",
+        "summary":"During the course of the internship I did during my stay in France, I worked for 6 months on a research project aimed at the study of the Quality of Experience perceived by users when watching streamed VR/360 content. The project also involved working within a team of 3 developers to build an end-to-end platform for streaming 360° videos with heterogeneous quality. Here's my contribution summarized: \n- Co-authored a paper presenting a study on the QoE in VR video streaming which gained a money prize from the DASH Industry Forum at MMSYS ‘18\n- Helped building the underlining VR video streaming app for Android (https://github.com/UCA4SVR/TOUCAN-VR) \n- Tweaked the Google video streaming framework ExoPlayer to enable parallel streaming of separate video tracks, and implemented the adaptation logic",
+        "range":"March 2017 - August 2017"
+    }
+]
