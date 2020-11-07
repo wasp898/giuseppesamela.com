@@ -7,5 +7,6 @@ awards: ["Best Screenplay"]
 actors: ["Jessica Chastain", "Idris Elba"]
 rating: "8"
 type: movies
+weight: -2017
 ---
 The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.

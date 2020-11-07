@@ -8,5 +8,6 @@ awards: ["Best Cinematography"]
 actors: ["Garrett Hedlund", "Carey Mulligan"]
 rating: "8"
 type: movies
+weight: -2017
 ---
 Two men return home from World War II to work on a farm in rural Mississippi, where they struggle to deal with racism and adjusting to life after war.

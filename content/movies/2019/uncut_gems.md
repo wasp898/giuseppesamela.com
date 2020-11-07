@@ -6,5 +6,6 @@ photo: "https://m.media-amazon.com/images/M/MV5BNzI5NmNlZmYtNzVjOS00ZGRhLTlkZGUt
 year: "2019"
 awards: ["Best Picture"]
 type: movies
+weight: -2019
 ---
 With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.

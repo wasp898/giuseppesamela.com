@@ -7,5 +7,6 @@ year: "2019"
 awards: ["Best Supporting Actor"]
 actors: [Robert De Niro, Al Pacino, Joe Pesci]
 type: movies
+weight: -2019
 ---
 An old man recalls his time painting houses for his friend, Jimmy Hoffa, through the 1950-70s.
