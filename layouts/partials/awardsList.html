@@ -1,0 +1,5 @@
+<ul>
+  {{ range  .Params.awards }}
+    <li><b><a href="{{ "/awards/" | relURL }}{{ . | urlize }}">{{ . }}</a></b></li>
+  {{ end }}
+</ul>

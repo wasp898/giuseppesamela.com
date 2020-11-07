@@ -1,13 +1,13 @@
 {{ define "main" }}
+{{ partial "breadcrumbs" . }}
 <!-- this is displayed for a specific tag, and will link content related -->
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
-
-  Content tagged with  <span class="tag">{{ .Data.Term }}</span>
+    <h2>{{ .Data.Term }}</h2>
     <ul>
       {{ range .Data.Pages }}
           <li>
-             <a href="{{.Permalink}}">{{.Title}}</a>
+             <b><a href="{{.Permalink}}">{{.Title}}</a></b> ({{ .Params.year }})
          </li>
       {{ end }}
     </ul>
