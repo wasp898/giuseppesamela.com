@@ -14,9 +14,12 @@
 
             </div>
 
-            {{ if .Site.Params.showQr }}
-              {{ partial "contact-qr" . }}
-            {{ end }}
+            <div class="contact-qr">
+              {{ if .Site.Params.showQr }}
+                {{ partial "contact-qr" . }}
+              {{ end }}
+            </div>
+            
         </div>
         <div>
           {{ .Content }}

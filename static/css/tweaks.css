@@ -26,6 +26,12 @@ div.skills-heading{
     margin-bottom:0 !important;
 }
 
+@media (max-width: 768px) {
+  .contact-qr {
+    display: none;
+  }
+}
+
 
 
 /* From https://codepen.io/wbeeftink/pen/dIaDH */
