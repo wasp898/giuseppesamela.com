@@ -1,6 +1,6 @@
 ---
 title: "A Quiet Place"
-director: "John Krasinski"
+directors: "John Krasinski"
 link: "https://www.imdb.com/title/tt6644200"
 year: "2018"
 awards: ["Best Horror", "Best Actress"]

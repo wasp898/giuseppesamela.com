@@ -1,6 +1,6 @@
 ---
 title: "Under the Silver Lake"
-director: "David Robert Mitchell"
+directors: "David Robert Mitchell"
 link: "https://www.imdb.com/title/tt5691670"
 year: "2018"
 awards: ["Best Picture", "Best Actor"]

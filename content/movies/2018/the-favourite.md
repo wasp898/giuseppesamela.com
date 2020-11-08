@@ -1,6 +1,6 @@
 ---
 title: "The Favourite"
-director: "Yorgos Lanthimos"
+directors: "Yorgos Lanthimos"
 link: "https://www.imdb.com/title/tt5083738"
 year: "2018"
 awards: ["Best Supporting Actress", "Best Ensemble Cast"]

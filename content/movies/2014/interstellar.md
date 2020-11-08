@@ -1,6 +1,6 @@
 ---
 title: "Interstellar"
-director: "Christopher Nolan"
+directors: "Christopher Nolan"
 link: "https://www.imdb.com/title/tt0816692"
 date: "2014"
 year: "2014"

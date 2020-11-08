@@ -1,6 +1,6 @@
 ---
 title: "Uncut Gems"
-director: "Safdie Brothers"
+directors: "Safdie Brothers"
 link: "https://www.imdb.com/title/tt5727208"
 photo: "https://m.media-amazon.com/images/M/MV5BNzI5NmNlZmYtNzVjOS00ZGRhLTlkZGUtNWYxODE5MDgyOThiXkEyXkFqcGdeQXVyNjAyNTIzOTM@._V1_FMjpg_UX1280_.jpg"
 year: "2019"

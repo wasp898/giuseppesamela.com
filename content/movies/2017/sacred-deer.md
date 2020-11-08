@@ -1,6 +1,6 @@
 ---
 title: "The Killing of a Sacred Deer"
-director: "Yorgos Lanthimos"
+directors: "Yorgos Lanthimos"
 link: "https://www.imdb.com/title/tt5715874"
 year: "2017"
 awards: ["Best Director", "Best Actor", "Best Supporting Actress"]

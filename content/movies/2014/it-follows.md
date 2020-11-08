@@ -1,6 +1,6 @@
 ---
 title: "It Follows"
-director: "David Robert Mitchell"
+directors: "David Robert Mitchell"
 link: "https://www.imdb.com/title/tt3235888"
 year: "2014"
 awards: ["Best Horror"]

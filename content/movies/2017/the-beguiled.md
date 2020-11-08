@@ -1,6 +1,6 @@
 ---
 title: "The Beguiled"
-director: "Sofia Coppola"
+directors: "Sofia Coppola"
 link: "https://www.imdb.com/title/tt5592248"
 year: "2017"
 awards: ["Best Supporting Actress"]
