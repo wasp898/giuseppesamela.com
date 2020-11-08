@@ -1,0 +1,18 @@
+<div class="resume-item d-flex flex-column flex-md-row mb-5">
+  <div class="publication-content mr-auto">
+    <h2 class="mb-0"><a href="{{ "/awards" | relURL }}{{ .Params.title | urlize | relURL}}">{{ .Params.title }}</a></h2>
+    <h3 class="mb-0">{{ .Params.winner }}</h3>
+    {{ if isset .Params "kind" }}
+      <!-- <b><a href="{{ "/directors/" | relURL }}{{ .Params.edition | urlize }}{{ . | urlize }}">{{ .Params.film }}</a></b> -->
+      <b>Film: <a href="{{ "/movies/" | relURL }}{{ .Params.edition | urlize }}/{{ .Params.film | urlize }}">{{ .Params.film }}</a></b>
+    {{ else }}
+      <b>Director: <a href="{{ "/directors/" | relURL }}{{ .Params.director | urlize }}">{{ .Params.director }}</a></b>
+    {{ end }}
+    <!-- <div>{{ .Summary | safeHTML }}</div> -->
+    <!-- <p>{{ partial "awardsList" . }}</p> -->
+  </div>
+  <div class="resume-date text-md-right">
+    <!-- <span class="text-primary">{{ .Params.edition }}</span> -->
+    <img src="{{ .Params.image }}" style="max-width:250px;padding:5px;"/>
+  </div>
+</div>
