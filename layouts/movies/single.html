@@ -2,7 +2,7 @@
 {{ partial "breadcrumbs" . }}
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
-    <h3 class="mb-0"><span>{{ .Params.director }}'s</span></h3>
+    <h3 class="mb-0"><span>{{ .Params.directors }}'s</span></h3>
     <h2 class="mb-0"><span class="text-primary">{{ .Title }}</span></h2>
     {{ .Content }}
     Winner of the following awards in <b><a href="{{ "/awards/" | relURL }}{{ .Params.year | urlize }}">{{ .Params.year }}</a></b>:
