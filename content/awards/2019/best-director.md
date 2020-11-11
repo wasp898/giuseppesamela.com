@@ -1,10 +1,10 @@
 ---
 title: "Best Director"
 edition: "2019"
-winner: "Bong Joon Ho"
+winner: bong-joon-ho.md
 kind: "director"
-film: "Parasite"
-director: "Bong Joon Ho"
+film: Parasite
+image: "https://m.media-amazon.com/images/M/MV5BMWNhZGEyY2UtNTJjOS00MTE3LThhNDQtYTYwYmIwMWJmYmIwXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_.jpg"
 type: award
 weight: 2
 ---

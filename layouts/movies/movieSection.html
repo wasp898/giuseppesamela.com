@@ -4,8 +4,10 @@
     <h1 id="{{ urlize .Title }}">{{ .Title }}</h1>
     <p>{{ .Content }}</p>
     <h3 class="mb-0"><a href="/awards">Film Awards</a></h3>
+    <br>
+    Some of my favorites:
     {{ range .Data.Pages.ByWeight }}
-      <h3 class="mb-0"><a href="{{ .Permalink }}">{{ .Params.title }} in Movies</a></h3>
+      <h4 class="mb-0"><a href="{{ .Permalink }}">{{ .Params.title }} </a></h4>
     {{ end }}
   </div>
 </section>

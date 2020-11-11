@@ -1,6 +1,6 @@
 ---
 title: "Film Awards"
-# type: awards
+type: awards
 layout: awardsSection
 sitemap:
   priority : 0.9
