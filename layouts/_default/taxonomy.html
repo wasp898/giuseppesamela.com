@@ -3,14 +3,18 @@
 <!-- this is displayed for a specific tag, and will link content related -->
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
-    <h2>{{ .Data.Term }}</h2>
-    <ul>
-      {{ range .Data.Pages }}
+    <h2 class="mb-3">{{ .Data.Term }}</h2>
+    {{ if eq .Data.Term "Best Screenplay" }}
+      {{ partial "awards/best-screenplay.html" .Data.Pages }}
+    {{ else }}
+      <ul>
+        {{ range .Data.Pages }}
           <li>
-             <b><a href="{{.Permalink}}">{{.Title}}</a></b> ({{ .Params.year }})
-         </li>
-      {{ end }}
-    </ul>
+            <b><a href="{{.Permalink}}">{{.Title}}</a></b> ({{ .Params.year }})
+          </li>
+        {{ end }}
+      </ul>
+    {{ end }}
   </div>
 </section>
 {{ end }}

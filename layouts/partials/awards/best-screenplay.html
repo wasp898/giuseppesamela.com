@@ -1,0 +1,13 @@
+{{ range . }}
+  <div class="resume-item d-flex flex-column flex-md-row mb-4">
+    <div>
+      <h2 class="mb-0">{{ .Params.year }}</h2>
+    </div>
+    <div class="ml-3">
+      <h3 class="mb-0">
+        <a href="{{.Permalink}}">{{.Params.writers}}</a>
+        <h4>({{.Title}})</h4>
+      </h3>
+    </div>
+  </div>
+{{ end }}

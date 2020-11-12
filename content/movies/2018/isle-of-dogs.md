@@ -1,6 +1,7 @@
 ---
 title: "Isle of Dogs"
 directors: "Wes Anderson"
+writers: "Wes Anderson"
 link: "https://www.imdb.com/title/tt5104604"
 year: "2018"
 awards: ["Best Screenplay", "Best Animated Feature"]

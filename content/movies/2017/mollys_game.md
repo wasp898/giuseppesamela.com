@@ -1,6 +1,7 @@
 ---
 title: "Molly's Game"
 directors: "Aaron Sorkin"
+writers: "Aaron Sorkin"
 link: "https://www.imdb.com/title/tt4209788"
 year: "2017"
 awards: ["Best Screenplay"]

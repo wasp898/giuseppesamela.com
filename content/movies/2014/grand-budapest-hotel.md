@@ -1,6 +1,7 @@
 ---
 title: "The Grand Budapest Hotel"
 directors: "Wes Anderson"
+writers: "Wes Anderson"
 link: "https://www.imdb.com/title/tt2278388"
 year: "2014"
 awards: ["Best Screenplay", "Best Production Design"]
