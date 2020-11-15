@@ -4,10 +4,14 @@
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
     <h2 class="mb-3">{{ .Data.Term }}</h2>
-    {{ if eq .Data.Term "Best Screenplay" }}
-      {{ partial "awards/best-screenplay.html" .Data.Pages }}
+    {{ if eq .Data.Term "Best Director" }}
+      {{ partial "awards/directorCategory.html" .Data.Pages }}
+    {{ else if eq .Data.Term "Best Screenplay" }}
+      {{ partial "awards/screenplayCategory.html" .Data.Pages }}
+    {{ else if eq .Data.Term "Best Cinematography" }}
+      {{ partial "awards/cinematographyCategory.html" .Data.Pages }}
     {{ else if or (eq .Data.Term "Best Actor") (eq .Data.Term "Best Actress") (eq .Data.Term "Best Supporting Actor") (eq .Data.Term "Best Supporting Actress") }}
-      {{ partial "awards/acting-award-category.html" . }}
+      {{ partial "awards/actingCategory.html" . }}
     {{ else }}
       <ul>
         {{ range .Data.Pages }}

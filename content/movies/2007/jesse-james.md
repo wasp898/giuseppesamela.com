@@ -2,6 +2,7 @@
 title: "The Assassination of Jesse James by the Coward Robert Ford"
 directors: "Andrew Dominik"
 writers: "Andrew Dominik"
+dp: "Roger Deakins"
 link: "https://www.imdb.com/title/tt0443680"
 year: 2007
 awards: ["Best Actor", "Best Cinematography"]
