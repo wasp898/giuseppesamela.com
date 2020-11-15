@@ -1,5 +1,0 @@
-{{ $pages := where .Pages ".Title" "Best Supporting Actress" }}
-{{ $pages := $pages | intersect (where .Site.RegularPages "Params.type" "award" ) }}
-{{ range $pages.Reverse }}
-  {{ partial "actingAwardSummary" . }}
-{{ end }}
