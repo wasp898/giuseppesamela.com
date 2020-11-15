@@ -4,7 +4,7 @@ directors: "David Fincher"
 writers: "Aaron Sorkin"
 link: "https://www.imdb.com/title/tt1285016"
 year: 2010
-awards: ["Best Screenplay"]
+awards: ["Best Picture", "Best Screenplay", "Best Supporting Actor", "Best Ensemble Cast"]
 actors: [Jesse Eisenberg, Andrew Garfield, Justin Timberlake]
 rating: 8
 weight: -2010
