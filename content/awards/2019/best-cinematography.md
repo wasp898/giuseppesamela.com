@@ -1,6 +1,6 @@
 ---
 title: "Best Cinematography"
-edition: "2019"
+edition: 2019
 winner: roger-deakins.md
 kind: "technical"
 film: 1917.md

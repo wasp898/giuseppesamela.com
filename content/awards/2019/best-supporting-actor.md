@@ -1,6 +1,6 @@
 ---
 title: "Best Supporting Actor"
-edition: "2019"
+edition: 2019
 winner: al-pacino.md
 kind: "actor"
 film: the-irishman.md

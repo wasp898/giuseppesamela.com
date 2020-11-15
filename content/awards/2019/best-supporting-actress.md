@@ -1,6 +1,6 @@
 ---
 title: "Best Supporting Actress"
-edition: "2019"
+edition: 2019
 winner: scarlett-johansson.md
 kind: "actor"
 films: [marriage-story.md, jojo-rabbit.md]

@@ -1,7 +1,6 @@
 ---
-title: "2019 in Movies"
-edition: 2019
-# weight: -2019
+title: "2018 in Movies"
+edition: 2018
 layout: bestOfYear
 sitemap:
   priority : 0.9

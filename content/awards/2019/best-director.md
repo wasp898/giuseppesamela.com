@@ -1,6 +1,6 @@
 ---
 title: "Best Director"
-edition: "2019"
+edition: 2019
 winner: bong-joon-ho.md
 kind: "director"
 film: parasite.md

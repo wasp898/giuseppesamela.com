@@ -6,6 +6,8 @@
     <h2 class="mb-3">{{ .Data.Term }}</h2>
     {{ if eq .Data.Term "Best Screenplay" }}
       {{ partial "awards/best-screenplay.html" .Data.Pages }}
+    {{ else if eq .Data.Term "Best Supporting Actress" }}
+      {{ partial "awards/best-supporting-actress.html" .Site }}
     {{ else }}
       <ul>
         {{ range .Data.Pages }}

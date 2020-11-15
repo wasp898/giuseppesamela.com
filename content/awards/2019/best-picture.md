@@ -1,6 +1,6 @@
 ---
 title: "Best Picture"
-edition: "2019"
+edition: 2019
 film: uncut-gems.md
 image: https://m.media-amazon.com/images/M/MV5BNzI5NmNlZmYtNzVjOS00ZGRhLTlkZGUtNWYxODE5MDgyOThiXkEyXkFqcGdeQXVyNjAyNTIzOTM@._V1_.jpg
 type: award
