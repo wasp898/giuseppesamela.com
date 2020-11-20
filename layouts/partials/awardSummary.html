@@ -1,16 +1,14 @@
 {{ $filmPath := print "/movies/" .Params.edition "/" .Params.film }}
 {{ $film := .Site.GetPage $filmPath }}
-{{ $winnerPath := print "/actors/" .Params.winner }}
-{{ $winner := .Site.GetPage $winnerPath }}
 <div class="resume-item d-flex flex-column flex-md-row mb-4">
   <div class="resume-content" style="padding: 4px 12px 0px 0px">
     <img src="{{ .Params.image }}" style="max-width:320px;"/>
   </div>
   <div class="publication-content mr-auto">
     <h2 class="mb-0"><a href="{{ "/awards" | relURL }}{{ .Params.title | urlize | relURL}}">{{ .Params.title }}</a></h2>
-    {{ if $winner }}
+    {{ if .Params.winner }}
       <!-- an award to an actor / director / etc -->
-      <h3 class="mb-0">{{ $winner.Title }}</h3>
+      <h3 class="mb-0">{{ .Params.winner }}</h3>
       {{ range .Params.films }}
         {{ $filmPath := print "/movies/" $.Params.edition "/" . }}
         {{ $film := $.Site.GetPage $filmPath }}

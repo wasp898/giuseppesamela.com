@@ -6,11 +6,9 @@
     <h2 class="mb-0">{{ .Params.edition }}</h2>
   </div>
   <div>
-    {{ $winnerPath := print "/actors/" .Params.winner }}
-    {{ $winner := .Site.GetPage $winnerPath }}
     {{ $edition := .Params.edition }}
     <h3 class="mb-0">
-      <span>{{ $winner.Title }}</span>
+      <span>{{ .Params.winner }}</span>
       <h4>
         ({{ range $i, $page := .Params.films }}
           {{ if $i }}, {{ end }}

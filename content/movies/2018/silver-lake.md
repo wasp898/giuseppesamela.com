@@ -1,10 +1,11 @@
 ---
 title: "Under the Silver Lake"
 directors: "David Robert Mitchell"
+writers: David Robert Mitchell
 link: "https://www.imdb.com/title/tt5691670"
 year: "2018"
 awards: ["Best Picture", "Best Actor"]
-actors: [""]
+actors: [Andrew Garfield]
 rating: "8"
 weight: -2018
 ---

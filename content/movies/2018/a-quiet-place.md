@@ -4,7 +4,7 @@ directors: "John Krasinski"
 link: "https://www.imdb.com/title/tt6644200"
 year: "2018"
 awards: ["Best Horror", "Best Actress"]
-actors: [""]
+actors: [John Krasinski, Emily Blunt]
 rating: "8"
 weight: -2018
 ---
