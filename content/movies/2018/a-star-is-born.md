@@ -1,6 +1,7 @@
 ---
 title: "A Star Is Born"
 directors: "Bradley Cooper"
+dp: "Matthew Libatique"
 link: https://www.imdb.com/title/tt1517451
 year: 2018
 awards: ["Best Cinematography"]
