@@ -1,7 +1,7 @@
 {{ $pages := where .Site.RegularPages ".Title" .Data.Term }}
 {{ $pages := $pages | intersect (where .Site.RegularPages "Params.type" "award" ) }}
 {{ range $pages.Reverse }}
-<div class="resume-item d-flex flex-column flex-md-row mb-4">
+<div class="resume-item d-flex flex-md-row mb-4">
   <div style="width: 100px;">
     <h2 class="mb-0">{{ .Params.edition }}</h2>
   </div>
