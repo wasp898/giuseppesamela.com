@@ -2,7 +2,7 @@
 title: "Parasite"
 directors: "Bong Joon Ho"
 link: "https://www.imdb.com/title/tt6751668"
-photo: ""
+photo: "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
 year: "2019"
 awards: ["Best Director"]
 actors: []
