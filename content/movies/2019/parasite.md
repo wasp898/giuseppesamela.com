@@ -8,4 +8,4 @@ awards: ["Best Director"]
 actors: []
 weight: -2019
 ---
-An old man recalls his time painting houses for his friend, Jimmy Hoffa, through the 1950-70s.
+Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan. 
