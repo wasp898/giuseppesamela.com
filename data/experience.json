@@ -1,9 +1,16 @@
 [
     {
         "role":"Software Engineer",
+        "company":"[Bitmovin](https://bitmovin.com)",
+        "summary":"Bitmovin is a leader in video infrastructure for adaptive streaming. It powers the world's largest OTT video providers with its Encoding, Player and Analytics products. Here's how I currently help out: \n- I am part of the Player Team and I work on the Web SDK \n- I contribute by investigating / debugging / fixing bugs in the player code \n- I contribute by introducing new features / writing player tests / improving on the existing code",
+        "range":"January 2021 - Present",
+        "knowledge":""
+    },
+    {
+        "role":"Software Engineer",
         "company":"[Quavlive](https://quavlive.com)",
-        "summary":"Quavlive conducts industrial research activities aimed at the design and development of new and innovative video streaming techniques and services for the web including On-Demand, Live streaming, and video-conferencing. Here are some of my main contributions as a front-end developer and more:\n- Had a leading role in the transitioning of the [QuavStreams](https://quavstreams.quavlive.com) video portal to the Angular development framework \n- Re-designed the company’s [website](https://quavlive.com) from scratch \n- Was responsible for anything related to iOS/macOS in our video solutions\n- Was heavily involved in the writing of two relevant European project proposals \n- Made several improvements to the WebRTC-based video conferencing system (client-side)",
-        "range":"July 2018 - Present",
+        "summary":"Quavlive conducts industrial research activities aimed at the design and development of new and innovative video streaming techniques and services for the web including On-Demand, Live streaming, and video-conferencing. Here are some of my main contributions as a front-end developer and more:\n- Had a leading role in the transitioning of the [QuavStreams](https://quavstreams.quavlive.com) video portal to the Angular framework \n- Re-designed the company’s [website](https://quavlive.com) from scratch \n- Was responsible for anything related to iOS/macOS in our video solutions\n- Was heavily involved in the writing of two relevant European project proposals \n- Made several improvements to the WebRTC-based video conferencing system (client-side)",
+        "range":"July 2018 - January 2021",
         "knowledge":""
     },
     {
