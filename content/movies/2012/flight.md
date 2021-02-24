@@ -1,0 +1,12 @@
+---
+title: "Flight"
+directors: "Robert Zemeckis"
+writers: "John Gatins"
+link: https://www.imdb.com/title/tt1907668
+year: 2012
+awards: ["Best Director"]
+actors: [Denzel Washington, Kelly Reilly]
+rating: A
+weight: -2012
+---
+An airline pilot saves almost all his passengers on his malfunctioning airliner which eventually crashed, but an investigation into the accident reveals something troubling. 
