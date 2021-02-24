@@ -8,7 +8,9 @@
     Winner of the following awards in <b><a href="{{ "/awards/" | relURL }}{{ .Params.year | urlize }}">{{ .Params.year }}</a></b>:
     {{ partial "awardsList" . }}
     {{ with .Params.link }}<p>Full movie description: <a href="{{ . }}">{{ . }}</a></p>{{ end }}
-    <img title="{{ .Title }}" src="{{ .Params.photo }}" style="max-width:450px; padding-bottom:10px;"/>
+    {{ if .Params.photo }}
+      <img title="{{ .Title }}" src="{{ .Params.photo }}" style="max-width:450px; max-height:300px; padding-bottom:10px;"/>
+    {{ end }}
   </div>
 </section>
 {{ end }}
