@@ -12,9 +12,9 @@
       {{ range .Params.films }}
         {{ $filmPath := print "/movies/" $.Params.edition "/" . }}
         {{ $film := $.Site.GetPage $filmPath }}
-        <b>Film: <a href="{{ trim $filmPath ".md" | urlize }}">{{ $film.Title }}</a></b><br>
+        <b>Film: <a href="{{ substr $filmPath 0 -3 | urlize }}">{{ $film.Title }}</a></b><br>
       {{ else }}
-        <b>Film: <a href="{{ trim $filmPath ".md" | urlize }}">{{ $film.Title }}</a></b>
+        <b>Film: <a href="{{ substr $filmPath 0 -3 | urlize }}">{{ $film.Title }}</a></b>
       {{ end }}
     {{ else }}
       <!-- an award to the film -->

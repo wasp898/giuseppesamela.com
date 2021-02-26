@@ -14,11 +14,11 @@
           {{ if $i }}, {{ end }}
           {{ $filmPath := print "/movies/" $edition "/" $page }}
           {{ $film := $.Site.GetPage $filmPath }}
-          <a href="{{ trim $filmPath ".md" | urlize }}">{{ $film.Title }}</a>
+          <a href="{{ substr $filmPath 0 -3 | urlize }}">{{ $film.Title }}</a>
         {{ else }}
           {{ $filmPath := print "/movies/" $edition "/" .Params.film }}
           {{ $film := $.Site.GetPage $filmPath }}
-          <a href="{{ trim $filmPath ".md" | urlize }}">{{ $film.Title }}</a>
+          <a href="{{ substr $filmPath 0 -3 | urlize }}">{{ $film.Title }}</a>
         {{ end }})
       </h4>
     </h3>
