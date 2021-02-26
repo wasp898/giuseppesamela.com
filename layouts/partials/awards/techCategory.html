@@ -1,11 +1,12 @@
-{{ range . }}
+{{ $category := .category }}
+{{ range .pages }}
   <div class="resume-item d-flex flex-md-row mb-4">
     <div style="min-width: 100px;">
       <h2 class="mb-0">{{ .Params.year }}</h2>
     </div>
     <div>
       <h3 class="mb-0">
-        <span>{{.Params.directors}}</span>
+        <span>{{ index .Params $category}}</span>
         <h4>(<a href="{{.Permalink}}">{{.Title}}</a>)</h4>
       </h3>
     </div>

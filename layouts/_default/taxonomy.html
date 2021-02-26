@@ -5,11 +5,15 @@
   <div class="my-auto">
     <h2 class="mb-3">{{ .Data.Term }}</h2>
     {{ if eq .Data.Term "Best Director" }}
-      {{ partial "awards/directorCategory.html" .Data.Pages }}
+      {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "directors") }}
     {{ else if eq .Data.Term "Best Screenplay" }}
-      {{ partial "awards/screenplayCategory.html" .Data.Pages }}
+      {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "writers") }}
     {{ else if eq .Data.Term "Best Cinematography" }}
-      {{ partial "awards/cinematographyCategory.html" .Data.Pages }}
+      {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "dp") }}
+    {{ else if eq .Data.Term "Best Editing" }}
+      {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "editor") }}
+    {{ else if eq .Data.Term "Best Score" }}
+      {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "composer") }}
     {{ else if or (eq .Data.Term "Best Actor") (eq .Data.Term "Best Actress") (eq .Data.Term "Best Supporting Actor") (eq .Data.Term "Best Supporting Actress") }}
       {{ partial "awards/actingCategory.html" . }}
     {{ else }}
