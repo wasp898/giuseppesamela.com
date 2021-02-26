@@ -1,6 +1,10 @@
 ---
 title: "Joker"
 directors: "Todd Phillips"
+writers: "Todd Phillips, Scott Silver"
+dp: Lawrence Sher 
+editor: Jeff Groth 
+composer: Hildur Guðnadóttir
 link: "https://www.imdb.com/title/tt7286456"
 photo: "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
 year: "2019"

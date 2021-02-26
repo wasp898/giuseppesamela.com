@@ -1,6 +1,7 @@
 ---
 title: "BlacKkKlansman"
 directors: "Spike Lee"
+editor: "Barry Alexander Brown"
 link: https://www.imdb.com/title/tt7349662
 year: 2018
 awards: ["Best Editing"]

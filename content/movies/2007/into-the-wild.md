@@ -2,6 +2,9 @@
 title: "Into the Wild"
 directors: "Sean Penn"
 writers: "Sean Penn"
+dp: Eric Gautier 
+editor: Jay Cassidy
+composer: Eddie Vedder
 link: "https://www.imdb.com/title/tt0758758"
 year: 2007
 awards: ["Best Picture", "Best Supporting Actor", "Best Editing", "Best Score"]

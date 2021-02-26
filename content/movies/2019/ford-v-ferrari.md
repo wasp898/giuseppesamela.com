@@ -1,6 +1,7 @@
 ---
 title: "Ford v Ferrari"
 directors: "James Mangold"
+editor: "Andrew Buckland, Michael McCusker"
 link: https://www.imdb.com/title/tt1950186
 photo: https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_.jpg
 year: 2019

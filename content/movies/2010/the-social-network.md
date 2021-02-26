@@ -2,6 +2,7 @@
 title: "The Social Network"
 directors: "David Fincher"
 writers: "Aaron Sorkin"
+dp: "Jeff Cronenweth"
 link: "https://www.imdb.com/title/tt1285016"
 year: 2010
 awards: ["Best Picture", "Best Screenplay", "Best Supporting Actor", "Best Ensemble Cast"]

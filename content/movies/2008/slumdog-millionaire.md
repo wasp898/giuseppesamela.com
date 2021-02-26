@@ -3,6 +3,8 @@ title: "Slumdog Millionaire"
 directors: "Danny Boyle"
 writers: "Simon Beaufoy"
 dp: "Anthony Dod Mantle"
+editor: Chris Dickens 
+composer: A.R. Rahman 
 link: https://www.imdb.com/title/tt1010048
 year: 2008
 awards: ["Best Editing", "Best Cinematography"]
