@@ -1,8 +1,8 @@
 ---
-title: "Film Awards"
+title: "Awards"
 type: awards
 layout: awardsSection
 sitemap:
   priority : 0.9
 ---
-Once a year I have fun and give my Oscars to the films and performances I loved the most.
+Here you can find some of my favorite films and performances split into categories.

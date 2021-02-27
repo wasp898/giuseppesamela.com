@@ -1,7 +1,8 @@
 ---
-title: "2018 in Movies"
+title: "2018"
 edition: 2018
-layout: bestOfYear
+type: edition
+weight: -2018
 sitemap:
   priority : 0.9
 ---

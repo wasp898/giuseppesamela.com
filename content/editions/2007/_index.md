@@ -1,7 +1,8 @@
 ---
-title: "2007 in Movies"
+title: "2007"
 edition: 2007
-layout: bestOfYear
+type: edition
+weight: -2007
 sitemap:
   priority : 0.9
 ---

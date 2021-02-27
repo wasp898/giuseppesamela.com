@@ -2,9 +2,10 @@
 {{ partial "breadcrumbs" . }}
 <section class="resume-section p-3 p-lg-5 d-flex flex-column">
   <div class="my-auto" id="projects-content">
-    <h1 id="{{ urlize .Title }}">{{ .Title }}</h1>
-    <p>{{ .Content }}</p>
-    {{ $pages := where .Site.Pages "Params.edition" .Params.edition}}
+    <h1 id="{{ urlize .Title }}">{{ .Title }} in Movies</h1>
+    <p>{{ .Content }}</p>sfafs s
+    {{ $pages := where .Site.Pages "Params.edition" .Params.edition }}
+    {{ $pages := $pages | intersect (where .Site.RegularPages "Params.type" "award" ) }}
     {{ range $pages }}
       {{ partial (printf "%s%s" .Type "Summary") . }}
     {{ end }}

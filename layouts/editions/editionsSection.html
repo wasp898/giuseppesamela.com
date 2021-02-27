@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="resume-section p-3 p-lg-5 d-flex flex-column">
+  <div class="my-auto" id="projects-content">
+    <h2 id="{{ urlize .Title }}">{{ .Title }}</h2>
+    <p>{{ .Content }}</p>
+    {{ $pages := where .Data.Pages.ByWeight "Params.type" "edition" }}
+    {{ range $pages }}
+      <h4 class="mb-0"><a href="{{ .Permalink }}">{{ .Params.title }} in Movies</a></h4>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
