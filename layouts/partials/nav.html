@@ -49,6 +49,11 @@
             <a class="nav-link js-scroll-trigger" href="/#blog">Blog</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showStuff }}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#things-i-like">Things I Like</a>
+          </li>
+      {{ end }}
     </ul>
   </div>
 </nav>

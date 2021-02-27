@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Hello friend, welcome to my site. You can find me on these platforms as well.
+Hello friend, welcome to my website. You can find me on these platforms as well.

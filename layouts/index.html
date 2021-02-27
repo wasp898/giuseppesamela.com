@@ -24,6 +24,12 @@
          {{ partial "sectionSummary" . }}
       {{ end }}
    {{ end }}
+   {{ if .Site.Params.showStuff }}
+      {{ with .Site.GetPage "section" "stuff" }}
+         {{ .Scratch.Set "sectionId" "stuff" }}
+         {{ partial "stuffSummary" . }}
+      {{ end }}
+   {{ end }}
    {{ if .Site.Params.showSkills }}
        {{ partial "portfolio/skills.html" . }}
    {{ end }}

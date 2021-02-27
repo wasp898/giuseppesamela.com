@@ -2,7 +2,7 @@
   <div class="my-auto" id="projects-content">
     <div class=" pb-2 pt-3">
       <h2><a>{{ .Title }}</a></h2>
-      {{ .Content | replaceRE "<p>" "<p class=\"lead\">" | safeHTML  }}      
+      {{ .Content | replaceRE "<p>" "<p class=\"lead\">" | safeHTML  }}
     </div>
   
     {{ $featuredPages := where .Pages "Params.featured" true }}
