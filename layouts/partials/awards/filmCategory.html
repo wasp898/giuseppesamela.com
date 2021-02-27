@@ -1,0 +1,10 @@
+{{ range .Data.Pages }}
+  <div class="resume-item d-flex flex-md-row mb-2">
+    <div style="min-width: 50px;">
+      <h3 class="mb-0">{{ .Params.year }}</h3>
+    </div>
+    <div style="vertical-align: middle">
+      <h3 class="mb-0"><a href="{{.Permalink}}">{{.Title}}</a></h3>
+    </div>
+  </div>
+{{ end }}

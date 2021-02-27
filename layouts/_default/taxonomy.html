@@ -16,6 +16,8 @@
       {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "composer") }}
     {{ else if or (eq .Data.Term "Best Actor") (eq .Data.Term "Best Actress") (eq .Data.Term "Best Supporting Actor") (eq .Data.Term "Best Supporting Actress") }}
       {{ partial "awards/actingCategory.html" . }}
+    {{ else if eq .Data.Singular "award" }}
+      {{ partial "awards/filmCategory.html" . }}
     {{ else }}
       <ul>
         {{ range .Data.Pages }}
