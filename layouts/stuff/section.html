@@ -3,7 +3,10 @@
   <div class="my-auto" id="projects-content">
     <h1 id="{{ urlize .Title }}">{{ .Title }}</h1>
     {{ .Content | replaceRE "<p>" "<p class=\"lead\">" | safeHTML  }}
-    <h3 class="mb-0"><a href="/movies">Movie Section</a></h3>
+    <h3 class="mb-0"><a href="/cinema">Cinema</a></h3>
+    <h3 class="mb-0"><a>Music</a></h3>
+    <h3 class="mb-0"><a>TV</a></h3>
+    <h3 class="mb-0"><a>Tech Stuff</a></h3>
   </div>
 </section>
 {{ end }}

@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="resume-section p-3 p-lg-5 d-flex flex-column">
+  <div class="my-auto" id="projects-content">
+    <h1 id="{{ urlize .Title }}">{{ .Title }}</h1>
+    <p>{{ .Content }}</p>
+    <br>
+    Every year I try to have fun giving my personal "Oscars" to the films and performances I loved the most:
+    <h3 class="mb-0"><a href="/editions">Film Awards - A Year in Movies</a></h3>
+    <h3 class="mb-0"><a href="/awards">Film Awards - Categories</a></h3>
+  </div>
+</section>
+{{ end }}

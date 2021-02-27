@@ -1,7 +1,7 @@
 ---
-title: "Movie Section"
-layout: "movieSection"
+title: "Movies"
+layout: "moviesSection"
 sitemap:
   priority : 0.9
 ---
-As a big movie lover I had to have this section on my website. Feel free to look around and keep up with my favorite films.
+This is a list of all the movies listed on this website.
