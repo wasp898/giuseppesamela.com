@@ -5,8 +5,8 @@
     <h3 class="mb-0"><span>{{ .Params.directors }}'s</span></h3>
     <h2 class="mb-0"><span class="text-primary">{{ .Title }}</span></h2>
     {{ .Content }}
-    Winner of the following awards in <b><a href="{{ "/awards/" | relURL }}{{ .Params.year | urlize }}">{{ .Params.year }}</a></b>:
-    {{ partial "awardsList" . }}
+    Winner of the following awards in <b><a href="{{ "/editions/" | relURL }}{{ .Params.year | urlize }}">{{ .Params.year }}</a></b>:
+    {{ partial "movies/awardsList" . }}
     {{ with .Params.link }}<p>Full movie description: <a href="{{ . }}">{{ . }}</a></p>{{ end }}
     {{ if .Params.photo }}
       <img title="{{ .Title }}" src="{{ .Params.photo }}" style="max-width:450px; max-height:300px; padding-bottom:10px;"/>
