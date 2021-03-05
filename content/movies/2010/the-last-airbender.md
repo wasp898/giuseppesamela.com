@@ -3,7 +3,7 @@ title: "The Last Airbender"
 directors: "M. Night Shyamalan"
 writers: "M. Night Shyamalan"
 link: https://www.imdb.com/title/tt0938283
-image: https://m.media-amazon.com/images/M/MV5BNmY2YmUyNjQtNDI2OS00MGVmLTkzMWMtOGJmNzUyY2JmN2Y5XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX709_.jpg
+photo: https://m.media-amazon.com/images/M/MV5BNmY2YmUyNjQtNDI2OS00MGVmLTkzMWMtOGJmNzUyY2JmN2Y5XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX709_.jpg
 year: 2010
 awards: ["Best Visual Effects"]
 actors: [Noah Ringer, Nicola Peltz, Dev Patel]

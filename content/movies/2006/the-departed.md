@@ -5,7 +5,7 @@ writers: [William Monahan]
 dp: "Michael Ballhaus"
 editor: "Thelma Schoonmaker"
 link: https://www.imdb.com/title/tt0407887
-image: https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_FMjpg_UX800_.jpg
+photo: https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_FMjpg_UX800_.jpg
 year: 2006
 awards: ["Best Picture", "Best Actor", "Best Editing"]
 actors: [Leonardo DiCaprio, Jack Nicholson, Matt Damon, Mark Wahlberg, Vera Farmiga]

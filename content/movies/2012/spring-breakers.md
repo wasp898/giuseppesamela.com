@@ -4,6 +4,7 @@ directors: "Harmony Korine"
 writers: "Harmony Korine"
 dp: "Benoît Debie"
 link: https://www.imdb.com/title/tt2101441
+photo: https://m.media-amazon.com/images/M/MV5BNDBmYjU3NzAtZGVkNS00N2E3LWEyNTgtMjIwMTczYTE0M2Y4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg
 year: 2012
 awards: ["Best Cinematography"]
 actors: [Vanessa Hudgens, Selena Gomez, Ashley Benson]
