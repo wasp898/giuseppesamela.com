@@ -9,7 +9,7 @@
     {{ partial "movies/awardsList" . }}
     {{ with .Params.link }}<p>Full movie description: <a href="{{ . }}">{{ . }}</a></p>{{ end }}
     {{ if .Params.photo }}
-      <img title="{{ .Title }}" src="{{ .Params.photo }}" style="max-width:450px; max-height:300px; padding-bottom:10px;"/>
+      <img title="{{ .Title }}" src="{{ .Params.photo }}" style="max-width:320px; max-height:300px; padding-bottom:10px;"/>
     {{ end }}
   </div>
 </section>
