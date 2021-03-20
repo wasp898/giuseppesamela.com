@@ -1,0 +1,128 @@
+[
+  {
+    "edition": "2020",
+    "first": {
+      "artist": "The Weeknd", "title": "After Hours"
+    },
+    "second": {
+      "artist": "Selena Gomez", "title": "Rare"
+    },
+    "third": {
+      "artist": "Halsey", "title": "Manic"
+    },
+    "others": [
+      { "artist": "Allie X", "title": "Cape God" },
+      { "artist": "Dua Lipa", "title": "Future Nostalgia" },
+      { "artist": "Kygo", "title": "Golden Hour" },
+      { "artist": "Sam Smith", "title": "Love Goes" },
+      { "artist": "Taylor Swift", "title": "folklore / evermore" }
+    ]
+  },
+  {
+    "edition": "2019",
+    "first": {
+      "artist": "Avicii", "title": "TIM"
+    },
+    "second": {
+      "artist": "Tove Lo", "title": "Sunshine Kitty"
+    },
+    "third": {
+      "artist": "Ariana Grande", "title": "thank you, next"
+    },
+    "others": [
+      { "artist": "Billie Eilish", "title": "When We All Fall Asleep, Where Do We Go" },
+      { "artist": "Carly Rae Jepsen", "title": "Dedicated" },
+      { "artist": "Charli XCX", "title": "Charli" },
+      { "artist": "Coldplay", "title": "Everyday Life" },
+      { "artist": "Khalid", "title": "Free Spirit" },
+      { "artist": "New Found Glory", "title": "From the Screen to Your Stereo 3" },
+      { "artist": "Taylor Swift", "title": "Lover" },
+      { "artist": "Thom Yorke", "title": "ANIMA" },
+      { "artist": "We Are Scientists", "title": "Megaplex" }
+    ]
+  },
+  {
+    "edition": "2018",
+    "first": {
+      "artist": "Bazzi", "title": "Cosmic"
+    },
+    "second": {
+      "artist": "Camila Cabello", "title": "Camila"
+    },
+    "third": {
+      "artist": "The 1975", "title": "A Brief Inquiry into Online Relationships"
+    }
+  },
+  {
+    "edition": "2017",
+    "first": {
+      "artist": "JAY-Z", "title": "4:44"
+    },
+    "second": {
+      "artist": "Charli XCX", "title": "Number 1 Angel"
+    },
+    "third": {
+      "artist": "Various Artists", "title": "The Greatest Showman"
+    }
+  },
+  {
+    "edition": "2016",
+    "first": {
+      "artist": "Weezer", "title": "White Album"
+    },
+    "second": {
+      "artist": "The Temper Trap", "title": "Thick as Thieves"
+    },
+    "third": {
+      "artist": "Beyoncé", "title": "Lemonade"
+    }
+  },
+  {
+    "edition": "2015",
+    "first": {
+      "artist": "Carly Rae Jepsen", "title": "EMOTION"
+    },
+    "second": {
+      "artist": "CHVRCHES", "title": "Every Open Eye"
+    },
+    "third": {
+      "artist": "Foals", "title": "What Went Down"
+    }
+  },
+  {
+    "edition": "2014",
+    "first": {
+      "artist": "FKA Twigs", "title": "LP1"
+    },
+    "second": {
+      "artist": "Coldplay", "title": "Ghost Stories"
+    },
+    "third": {
+      "artist": "Sia", "title": "1000 Forms of Fear"
+    }
+  },
+  {
+    "edition": "2013",
+    "first": {
+      "artist": "Paramore", "title": "Self Titled"
+    },
+    "second": {
+      "artist": "Arctic Monkeys", "title": "AM"
+    },
+    "third": {
+      "artist": "Fall Out Boy", "title": "Save Rock and Roll"
+    }
+  },
+  {
+    "edition": "2012",
+    "first": {
+      "artist": "Lana Del Rey", "title": "Born to Die"
+    },
+    "second": {
+      "artist": "Kendrick Lamar", "title": "good kid, m.A.A.d city"
+    },
+    "third": {
+      "artist": "Vanilla Sky", "title": "The Band Not The Movie"
+    }
+  }
+]

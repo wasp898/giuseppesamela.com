@@ -1,0 +1,25 @@
+<section class="p-3 p-lg-0 d-flex flex-column">
+  <div style="margin-top: 25px" id="skills-content">
+    {{ range $.Site.Data.albums }}
+      <div class="resume-item d-flex flex-md-row mb-3">
+        <div style="min-width: 110px; align-self: center">
+          <h2 class="mb-0">{{ .edition }}</h2>
+        </div>
+        <div>
+          <h4 class="resume-item d-flex flex-md-row mb-0">
+            <div style="min-width: 20px;">1.</div>
+            <div>{{ partial "music/album.html" .first }}  </div>
+          </h4>
+          <h4 class="resume-item d-flex flex-md-row mb-0">
+            <div style="min-width: 20px;">2.</div>
+            <div>{{ partial "music/album.html" .second }}  </div>
+          </h4>
+          <h4 class="resume-item d-flex flex-md-row mb-0">
+            <div style="min-width: 20px;">3.</div>
+            <div>{{ partial "music/album.html" .third }}  </div>
+          </h4>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</section>
