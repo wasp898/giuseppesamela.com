@@ -51,7 +51,24 @@
     },
     "third": {
       "artist": "The 1975", "title": "A Brief Inquiry into Online Relationships"
-    }
+    },
+    "others": [
+      "Alec Benjamin - Narrated For You",
+      "Ariana Grande - Sweetener",
+      "CHVRCHES - Love is Dead",
+      "Clean Bandit - What Is Love?",
+      "Drake - Scorpion",
+      "Imagine Dragons - Origins",
+      "Khalid - Suncity EP",
+      "Kids See Ghosts - Kids See Ghosts",
+      "Mumford & Sons - Delta",
+      "Nicki Minaj - Queen",
+      "Panic at the Disco - Pray for the Wicked",
+      "Robyn - Honey",
+      "Troye Syvan - Bloom",
+      "Various Artists - Black Panther",
+      "Years & Years - Palo Santo"
+    ]
   },
   {
     "edition": "2017",
@@ -63,7 +80,22 @@
     },
     "third": {
       "artist": "Various Artists", "title": "The Greatest Showman"
-    }
+    },
+    "others":[
+      "Dua Lipa - Dua Lipa",
+      "Ed Sheeran - Divide",
+      "Khalid - American Teen",
+      "Kendrick Lamar - DAMN",
+      "Lana Del Rey - Lust for Life",
+      "Miguel - War & Leisure",
+      "Paramore - After Laughter",
+      "Pink - Beautiful Trauma",
+      "Taylor Swift - Reputation",
+      "Tove Lo - Blue Lips",
+      "Walk the Moon - Walk the Moon",
+      "Weezer - Pacific Daydream",
+      "Zara Larsson - So Good"
+    ]
   },
   {
     "edition": "2016",
@@ -75,19 +107,41 @@
     },
     "third": {
       "artist": "Beyoncé", "title": "Lemonade"
-    }
+    },
+    "others": [
+      "Alessia Cara - Know-It-All",
+      "Charlie Puth - Nine Track Mind",
+      "Childish Gambino - Awaken, My Love",
+      "Jimmy Eat World - Integrity Blues",
+      "Miike Snow - iii",
+      "Santigold - 99c",
+      "Sum 41 - 13 Voices",
+      "Travis - Everything At Once",
+      "Years & Years - Communion",
+      "Yellowcard - Yellowcard"
+    ]
   },
   {
     "edition": "2015",
     "first": {
-      "artist": "Carly Rae Jepsen", "title": "EMOTION"
+      "artist": "Carly Rae Jepsen", "title": "E·MO·TION"
     },
     "second": {
       "artist": "CHVRCHES", "title": "Every Open Eye"
     },
     "third": {
       "artist": "Foals", "title": "What Went Down"
-    }
+    },
+    "others": [
+      "BORNS - Dopamine",
+      "Editors - In Dream",
+      "Ellie Goulding - Delirium",
+      "Justin Bieber - Purpose",
+      "Kendrick Lamar - To Pimp a Butterfly",
+      "Miguel - Wildheart",
+      "Mumford & Sons - Believe",
+      "Troye Syvan - Blue Neighbourhood"
+    ]
   },
   {
     "edition": "2014",
@@ -99,7 +153,17 @@
     },
     "third": {
       "artist": "Sia", "title": "1000 Forms of Fear"
-    }
+    },
+    "others": [
+      "20 syl - Motifs EP",
+      "Ariana Grande - My Everything",
+      "Charli XCX - Sucker",
+      "Ed Sheehan - x",
+      "Lana Del Rey - Ultraviolence",
+      "Royksopp - The Inevitable End",
+      "The Hoosiers - The News From Nowhere",
+      "Walk the Moon - Talking is Hard"
+    ]
   },
   {
     "edition": "2013",
@@ -111,7 +175,16 @@
     },
     "third": {
       "artist": "Fall Out Boy", "title": "Save Rock and Roll"
-    }
+    },
+    "others": [
+      "Charli XCX - True Romance",
+      "CHVRCHES - The Bones of What You Believe",
+      "Editors - The Weight of Your Love",
+      "Katy Perry - Prism",
+      "Lorde - Pure Heroine",
+      "Sigur Ros - Kveikur",
+      "Stromae - Racine Carrée"
+    ]
   },
   {
     "edition": "2012",
@@ -123,6 +196,156 @@
     },
     "third": {
       "artist": "Vanilla Sky", "title": "The Band Not The Movie"
+    },
+    "others": [
+      "The Maccabees - Given to the Wild",
+      "La Fame di Camilla - L’Attesa",
+      "Carly Rae Jepsen - Kiss",
+      "Keane - Strangeland",
+      "Linkin Park - Living Things",
+      "Santigold - Master of My Make-Believe",
+      "The Black Keys - El Camino",
+      "The Temper Trap - The Temper Trap",
+      "Walk The Moon - Walk the Moon",
+      "Yellowcard - Southern Air"
+    ]
+  },
+  {
+    "edition": "2011",
+    "first": {
+      "artist": "Yellowcard", "title": "When You're Through Thinking Say Yes"
+    },
+    "second": {
+      "artist": "Jay-Z & Kanye West", "title": "Watch the Throne"
+    },
+    "third": {
+      "artist": "Ed Sheehan", "title": "+"
+    }
+  },
+  {
+    "edition": "2010",
+    "first": {
+      "artist": "Eminem", "title": "Recovery"
+    },
+    "second": {
+      "artist": "Ellie Goulding", "title": "Bright Lights"
+    },
+    "third": {
+      "artist": "Jónsi", "title": "Go"
+    }
+  },
+  {
+    "edition": "2009",
+    "first": {
+      "artist": "The Maccabees", "title": "Wall of Arms"
+    },
+    "second": {
+      "artist": "Paramore", "title": "Brand New Eyes"
+    },
+    "third": {
+      "artist": "Kelly Clarkson", "title": "All I Ever Wanted"
+    }
+  },
+  {
+    "edition": "2008",
+    "first": {
+      "artist": "Fall Out Boy", "title": "Folie à Deux"
+    },
+    "second": {
+      "artist": "Simple Plan", "title": "Simple Plan"
+    },
+    "third": {
+      "artist": "Death Cab for Cutie", "title": "Narrow Stairs"
+    }
+  },
+  {
+    "edition": "2007",
+    "first": {
+      "artist": "Editors", "title": "An End Has a Start"
+    },
+    "second": {
+      "artist": "Yellowcard", "title": "Paper Walls"
+    },
+    "third": {
+      "artist": "Jimmy Eat World", "title": "Chase This Light"
+    }
+  },
+  {
+    "edition": "2006",
+    "first": {
+      "artist": "My Chemical Romance", "title": "The Black Parade"
+    },
+    "second": {
+      "artist": "Snow Patrol", "title": "Eyes Open"
+    },
+    "third": {
+      "artist": "Yellowcard", "title": "Lights and Sounds"
+    }
+  },
+  {
+    "edition": "2005",
+    "first": {
+      "artist": "Röyksopp", "title": "The Understanding"
+    },
+    "second": {
+      "artist": "Death Cab for Cutie", "title": "Plans"
+    },
+    "third": {
+      "artist": "Weezer", "title": "Make Believe"
+    }
+  },
+  {
+    "edition": "2004",
+    "first": {
+      "artist": "Keane", "title": "Hopes and Fears"
+    },
+    "second": {
+      "artist": "My Chemical Romance", "title": "Three Cheers for Sweet Revenge"
+    },
+    "third": {
+      "artist": "Jimmy Eat World", "title": "Futures"
+    }
+  },
+  {
+    "edition": "2003",
+    "first": {
+      "artist": "The Perishers", "title": "Let There Be Morning"
+    },
+    "second": {
+      "artist": "Yellowcard", "title": "Ocean Avenue"
+    },
+    "third": {
+      "artist": "The Knife", "title": "Deep Cuts"
+    }
+  },
+  {
+    "edition": "2002",
+    "first": {
+      "artist": "New Found Glory", "title": "Sticks and Stones"
+    },
+    "second": {
+      "artist": "Eminem", "title": "8 Mile"
+    },
+    "third": {
+      "artist": "Simple Plan", "title": "No Pads, No Helmets… Just Balls"
+    }
+  },
+  {
+    "edition": "2001",
+    "first": {
+      "artist": "Blink 182", "title": "Take Off Your Pants and Jacket"
+    },
+    "second": {
+      "artist": "Travis", "title": "The Invisible Band"
+    },
+    "third": {
+      "artist": "Depeche Mode", "title": "Exciter"
+    }
+  },
+  {
+    "edition": "2000",
+    "first": {
+      "artist": "Coldplay", "title": "Parachutes"
     }
   }
 ]
