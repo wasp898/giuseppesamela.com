@@ -4,6 +4,7 @@ directors: "James Cameron"
 writers: "James Cameron"
 dp: "Mauro Fiore"
 link: https://www.imdb.com/title/tt0499549
+photo: https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_QL75_UX280_CR0,0,280,414_.jpg
 year: 2009
 awards: ["Best Cinematography", "Best Production Design", "Best Visual Effects"]
 actors: [Sam Worthington, Zoe Saldana, Sigourney Weaver]
