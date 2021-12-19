@@ -4,6 +4,7 @@ directors: "Name of the director"
 writers: "List of screenwriters"
 composer: "Name of the composer of the score"
 dp: "Name of the cinematographer"
+editor: "Name of the editor"
 link: "Link to imdb page"
 photo: Link to a picture of the artwork or a photo from the film
 year: number

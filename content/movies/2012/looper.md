@@ -2,6 +2,8 @@
 title: "Looper"
 directors: "Rian Johnson"
 writers: "Rian Johnson"
+editor: "Bob Ducsay"
+dp: "Steve Yedlin"
 link: "https://www.imdb.com/title/tt1276104"
 year: 2012
 awards: ["Best Action Film", "Best Editing"]
