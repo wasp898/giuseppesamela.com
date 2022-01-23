@@ -3,7 +3,7 @@ title: "Interstellar"
 directors: "Christopher Nolan"
 dp: Hoyte Van Hoytema
 editor: Lee Smith 
-composer: Hans Zimmer 
+composer: Hans Zimmer
 link: "https://www.imdb.com/title/tt0816692"
 year: "2014"
 awards: ["Best Picture", "Best Score", "Best Visual Effects"]
