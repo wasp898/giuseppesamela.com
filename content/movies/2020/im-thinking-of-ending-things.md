@@ -8,7 +8,7 @@ editor: "Robert Frazen"
 link: https://www.imdb.com/title/tt7939766
 photo: https://m.media-amazon.com/images/M/MV5BMDZjNDBhZDYtOGI4YS00OTUwLTk1ZjQtMjU5Mzc3NWNkNTNiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1280_.jpg
 year: 2020
-awards: ["Best Picture", "Best Supporting Actor"]
+awards: ["Best Picture", "Best Screenplay", "Best Supporting Actor"]
 actors: ["Jessie Buckley", "Jesse Plemons", "Toni Collette"]
 rating: A
 weight: -2020
