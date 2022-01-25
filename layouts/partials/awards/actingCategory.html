@@ -10,16 +10,15 @@
     <h3 class="mb-0">
       <span>{{ .Params.winner }}</span>
       <h4>
-        ({{ range $i, $page := .Params.films }}
-          {{ if $i }}, {{ end }}
+        {{ range $i, $page := .Params.films }}
           {{ $filmPath := print "/movies/" $edition "/" $page }}
           {{ $film := $.Site.GetPage $filmPath }}
-          <a href="{{ substr $filmPath 0 -3 | urlize }}">{{ $film.Title }}</a>
+          {{ if not $i }} ({{ end }}<a href="{{ substr $filmPath 0 -3 | urlize }}">{{ $film.Title }}</a>{{ if not $i }}, {{ end }}{{ if $i }}){{ end }}
         {{ else }}
           {{ $filmPath := print "/movies/" $edition "/" .Params.film }}
           {{ $film := $.Site.GetPage $filmPath }}
-          <a href="{{ substr $filmPath 0 -3 | urlize }}">{{ $film.Title }}</a>
-        {{ end }})
+          (<a href="{{ substr $filmPath 0 -3 | urlize }}">{{ $film.Title }}</a>)
+        {{ end }}
       </h4>
     </h3>
   </div>
