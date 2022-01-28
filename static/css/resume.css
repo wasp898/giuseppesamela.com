@@ -109,10 +109,10 @@ h2 {
 }
 
 section.resume-section {
-  min-height: 94vh;
+  min-height: 95vh;
   border-bottom: 1px solid #dee2e6;
   padding-top: 5rem !important;
-  padding-bottom: 5rem !important;
+  padding-bottom: 10rem !important;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -127,6 +127,7 @@ section.resume-section .resume-item .resume-date {
 
 @media (min-width: 992px) {
   section.resume-section {
+    min-height: 100vh;
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
   }
