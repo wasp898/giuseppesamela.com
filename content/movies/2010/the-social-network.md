@@ -4,6 +4,7 @@ directors: "David Fincher"
 writers: "Aaron Sorkin"
 dp: "Jeff Cronenweth"
 link: "https://www.imdb.com/title/tt1285016"
+photo: https://m.media-amazon.com/images/M/MV5BNDA0MjQ1MTIyOF5BMl5BanBnXkFtZTcwOTEzNjI4Mw@@._V1_FMjpg_UX1280_.jpg
 year: 2010
 awards: ["Best Picture", "Best Screenplay", "Best Supporting Actor", "Best Ensemble Cast", "Best Cinematography"]
 actors: [Jesse Eisenberg, Andrew Garfield, Justin Timberlake]

@@ -6,6 +6,7 @@ dp: Eric Gautier
 editor: Jay Cassidy
 composer: Eddie Vedder
 link: "https://www.imdb.com/title/tt0758758"
+photo: https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_FMjpg_UX450_.jpg
 year: 2007
 awards: ["Best Picture", "Best Supporting Actor", "Best Editing", "Best Score"]
 actors: [Emile Hirsch, Catherine Keener, Kristen Stewart, Hal Holbrook]
