@@ -6,4 +6,4 @@ weight: -2007
 sitemap:
   priority : 0.9
 ---
-Once a year I have fun and give my Oscars to the films and performances I loved the most.
+Every year I try to come up with a list of my personal "Oscars" to reward the films and performances I loved the most.
