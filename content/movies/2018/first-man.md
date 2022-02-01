@@ -2,7 +2,7 @@
 title: "First Man"
 directors: "Damien Chazelle"
 composer: Justin Hurwitz 
-link: https://www.imdb.com/title/tt1270797
+link: https://www.imdb.com/title/tt1213641
 year: 2018
 awards: ["Best Score"]
 actors: [Ryan Gosling, Claire Foy, Jason Clarke]

@@ -4,7 +4,7 @@ directors: "Danny Boyle"
 writers: "Danny Boyle, Simon Beaufoy"
 composer: "A.R. Rahman"
 dp: "Anthony Dod Mantle"
-editing: "Jon Harris"
+editor: "Jon Harris"
 link: "https://www.imdb.com/title/tt1542344"
 photo: https://m.media-amazon.com/images/M/MV5BMTMwMDQ0MjE0NF5BMl5BanBnXkFtZTcwNTA0NDc4Mw@@._V1_FMjpg_UX1280_.jpg
 year: 2010
