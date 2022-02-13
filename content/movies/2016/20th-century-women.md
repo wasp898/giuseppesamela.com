@@ -4,7 +4,7 @@ directors: "Mike Mills"
 writers: "Mike Mills"
 link: "https://www.imdb.com/title/tt4385888"
 year: 2016
-awards: ["Best Screenplay"]
+awards: ["Best Screenplay", "Best Actress"]
 actors: [Annette Bening, Billy Crudup, Elle Fanning, Greta Gerwig]
 rating: "8"
 weight: -2016
