@@ -8,7 +8,7 @@ editor: John Gilbert
 link: "https://www.imdb.com/title/tt0120737"
 photo: https://m.media-amazon.com/images/M/MV5BMTk3NzcwNzgxOF5BMl5BanBnXkFtZTYwMjEzNjY2._V1_FMjpg_UX300_.jpg
 year: 2001
-awards: ["Best Cinematography"]
+awards: ["Best Supporting Actor", "Best Cinematography"]
 actors: [Elijah Wood, Viggo Mortensen, Andy Serkis]
 rating: A
 weight: -2001

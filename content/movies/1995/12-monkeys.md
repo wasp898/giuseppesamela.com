@@ -8,7 +8,7 @@ composer: Paul Buckmaster
 link: "https://www.imdb.com/title/tt0114746"
 photo: https://m.media-amazon.com/images/M/MV5BODRlMjNkNzctZTAyZi00YWNkLWE4YzEtYjU2NTExOGRiYmQ1XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX800_.jpg
 year: 1995
-awards: ["Best Screenplay", "Best Cinematography"]
+awards: ["Best Screenplay", "Best Cinematography", "Best Supporting Actor"]
 actors: [Bruce Willis, Madeleine Stowe, Brad Pitt]
 rating: A
 weight: -1995

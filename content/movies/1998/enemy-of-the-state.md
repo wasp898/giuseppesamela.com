@@ -7,7 +7,7 @@ editor: Chris Lebenzon
 link: "https://www.imdb.com/title/tt0120660"
 photo: https://m.media-amazon.com/images/M/MV5BMWI0Y2NhMzMtYTE5ZS00MDlhLTg0ZjEtMjAwZmEwNTc0ODc2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg
 year: 1998
-awards: ["Best Picture"]
+awards: ["Best Picture", "Best Supporting Actor"]
 actors: [Will Smith, Gene Hackman, Jon Voight]
 rating: A
 weight: -1998

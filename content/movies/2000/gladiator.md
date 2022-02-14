@@ -8,7 +8,7 @@ editor: Pietro Scalia
 link: "https://www.imdb.com/title/tt0172495"
 photo: https://m.media-amazon.com/images/M/MV5BZTZjNGI4OTktNzJjNi00MWU4LTg3NTEtOWEwMzJiNmM1YjdiXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_FMjpg_UY720_.jpg
 year: 2000
-awards: ["Best Actor"]
+awards: ["Best Actor", "Best Supporting Actor"]
 actors: [Russell Crowe, Joaquin Phoenix]
 rating: A
 weight: -2000

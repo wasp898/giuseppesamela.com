@@ -7,7 +7,7 @@ editor: Tim Streeto
 link: https://www.imdb.com/title/tt0367089/
 photo: https://m.media-amazon.com/images/M/MV5BMjU0MzBiMDctMmU3NS00NjRkLTkzMzgtZWE3NmExZGI0MmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX661_.jpg
 year: 2005
-awards: ["Best Screenplay"]
+awards: ["Best Screenplay", "Best Supporting Actor"]
 actors: [Jeff Daniels, Laura Linney, Jesse Eisenberg]
 rating: A
 weight: -2005
