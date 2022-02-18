@@ -3,18 +3,18 @@
 <!-- this is displayed for a specific tag, and will link content related -->
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
-    <h2 class="mb-3">{{ .Data.Term }}</h2>
-    {{ if eq .Data.Term "Best Director" }}
+    <h2 class="mb-3">{{ .Title }}</h2>
+    {{ if eq .Data.Term "best-director" }}
       {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "directors") }}
-    {{ else if eq .Data.Term "Best Screenplay" }}
+    {{ else if eq .Data.Term "best-screenplay" }}
       {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "writers") }}
-    {{ else if eq .Data.Term "Best Cinematography" }}
+    {{ else if eq .Data.Term "best-cinematography" }}
       {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "dp") }}
-    {{ else if eq .Data.Term "Best Editing" }}
+    {{ else if eq .Data.Term "best-editing" }}
       {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "editor") }}
-    {{ else if eq .Data.Term "Best Score" }}
+    {{ else if eq .Data.Term "best-score" }}
       {{ partial "awards/techCategory.html" (dict "context" . "pages" .Data.Pages "category" "composer") }}
-    {{ else if or (eq .Data.Term "Best Actor") (eq .Data.Term "Best Actress") (eq .Data.Term "Best Supporting Actor") (eq .Data.Term "Best Supporting Actress") }}
+    {{ else if or (eq .Data.Term "best-actor") (eq .Data.Term "best-actress") (eq .Data.Term "best-supporting-actor") (eq .Data.Term "best-supporting-actress") }}
       {{ partial "awards/actingCategory.html" . }}
     {{ else if eq .Data.Singular "award" }}
       {{ partial "awards/filmCategory.html" . }}
