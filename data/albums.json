@@ -1,14 +1,41 @@
 [
   {
-    "edition": "2020",
+    "edition": "2021",
     "first": {
-      "artist": "The Weeknd", "title": "After Hours"
+      "artist": "CHVRCHES",
+      "title": "Screen Violence"
     },
     "second": {
-      "artist": "Selena Gomez", "title": "Rare"
+      "artist": "Lil Nas X",
+      "title": "MONTERO"
     },
     "third": {
-      "artist": "Halsey", "title": "Manic"
+      "artist": "Halsey",
+      "title": "If I Can’t Have Love, I Want Power"
+    },
+    "others": [
+      { "artist": "girl in red", "title": "if i could make it go quiet" },
+      { "artist": "Hayley Williams", "title": "Flowers for Vases / descansos" },
+      { "artist": "Justin Bieber", "title": "Justice" },
+      { "artist": "Sia", "title": "Music" },
+      { "artist": "Weezer", "title": "OK Human" },
+      { "artist": "Wolf Alice", "title": "Blue Weekend" },
+      { "artist": "Zara Larsson", "title": "Poster Girl" }
+    ]
+  },
+  {
+    "edition": "2020",
+    "first": {
+      "artist": "The Weeknd",
+      "title": "After Hours"
+    },
+    "second": {
+      "artist": "Selena Gomez",
+      "title": "Rare"
+    },
+    "third": {
+      "artist": "Halsey",
+      "title": "Manic"
     },
     "others": [
       { "artist": "Allie X", "title": "Cape God" },
@@ -21,21 +48,30 @@
   {
     "edition": "2019",
     "first": {
-      "artist": "Avicii", "title": "TIM"
+      "artist": "Avicii",
+      "title": "TIM"
     },
     "second": {
-      "artist": "Tove Lo", "title": "Sunshine Kitty"
+      "artist": "Tove Lo",
+      "title": "Sunshine Kitty"
     },
     "third": {
-      "artist": "Ariana Grande", "title": "thank you, next"
+      "artist": "Ariana Grande",
+      "title": "thank you, next"
     },
     "others": [
-      { "artist": "Billie Eilish", "title": "When We All Fall Asleep, Where Do We Go" },
+      {
+        "artist": "Billie Eilish",
+        "title": "When We All Fall Asleep, Where Do We Go"
+      },
       { "artist": "Carly Rae Jepsen", "title": "Dedicated" },
       { "artist": "Charli XCX", "title": "Charli" },
       { "artist": "Coldplay", "title": "Everyday Life" },
       { "artist": "Khalid", "title": "Free Spirit" },
-      { "artist": "New Found Glory", "title": "From the Screen to Your Stereo 3" },
+      {
+        "artist": "New Found Glory",
+        "title": "From the Screen to Your Stereo 3"
+      },
       { "artist": "Taylor Swift", "title": "Lover" },
       { "artist": "Thom Yorke", "title": "ANIMA" },
       { "artist": "We Are Scientists", "title": "Megaplex" }
@@ -44,13 +80,16 @@
   {
     "edition": "2018",
     "first": {
-      "artist": "Bazzi", "title": "Cosmic"
+      "artist": "Bazzi",
+      "title": "Cosmic"
     },
     "second": {
-      "artist": "Camila Cabello", "title": "Camila"
+      "artist": "Camila Cabello",
+      "title": "Camila"
     },
     "third": {
-      "artist": "The 1975", "title": "A Brief Inquiry into Online Relationships"
+      "artist": "The 1975",
+      "title": "A Brief Inquiry into Online Relationships"
     },
     "others": [
       "Alec Benjamin - Narrated For You",
@@ -73,15 +112,18 @@
   {
     "edition": "2017",
     "first": {
-      "artist": "JAY-Z", "title": "4:44"
+      "artist": "JAY-Z",
+      "title": "4:44"
     },
     "second": {
-      "artist": "Charli XCX", "title": "Number 1 Angel"
+      "artist": "Charli XCX",
+      "title": "Number 1 Angel"
     },
     "third": {
-      "artist": "Various Artists", "title": "The Greatest Showman"
+      "artist": "Various Artists",
+      "title": "The Greatest Showman"
     },
-    "others":[
+    "others": [
       "Dua Lipa - Dua Lipa",
       "Ed Sheeran - Divide",
       "Khalid - American Teen",
@@ -100,13 +142,16 @@
   {
     "edition": "2016",
     "first": {
-      "artist": "Weezer", "title": "White Album"
+      "artist": "Weezer",
+      "title": "White Album"
     },
     "second": {
-      "artist": "The Temper Trap", "title": "Thick as Thieves"
+      "artist": "The Temper Trap",
+      "title": "Thick as Thieves"
     },
     "third": {
-      "artist": "Beyoncé", "title": "Lemonade"
+      "artist": "Beyoncé",
+      "title": "Lemonade"
     },
     "others": [
       "Alessia Cara - Know-It-All",
@@ -124,13 +169,16 @@
   {
     "edition": "2015",
     "first": {
-      "artist": "Carly Rae Jepsen", "title": "E·MO·TION"
+      "artist": "Carly Rae Jepsen",
+      "title": "E·MO·TION"
     },
     "second": {
-      "artist": "CHVRCHES", "title": "Every Open Eye"
+      "artist": "CHVRCHES",
+      "title": "Every Open Eye"
     },
     "third": {
-      "artist": "Foals", "title": "What Went Down"
+      "artist": "Foals",
+      "title": "What Went Down"
     },
     "others": [
       "BORNS - Dopamine",
@@ -146,13 +194,16 @@
   {
     "edition": "2014",
     "first": {
-      "artist": "FKA Twigs", "title": "LP1"
+      "artist": "FKA Twigs",
+      "title": "LP1"
     },
     "second": {
-      "artist": "Coldplay", "title": "Ghost Stories"
+      "artist": "Coldplay",
+      "title": "Ghost Stories"
     },
     "third": {
-      "artist": "Sia", "title": "1000 Forms of Fear"
+      "artist": "Sia",
+      "title": "1000 Forms of Fear"
     },
     "others": [
       "20 syl - Motifs EP",
@@ -168,13 +219,16 @@
   {
     "edition": "2013",
     "first": {
-      "artist": "Paramore", "title": "Self Titled"
+      "artist": "Paramore",
+      "title": "Self Titled"
     },
     "second": {
-      "artist": "Arctic Monkeys", "title": "AM"
+      "artist": "Arctic Monkeys",
+      "title": "AM"
     },
     "third": {
-      "artist": "Fall Out Boy", "title": "Save Rock and Roll"
+      "artist": "Fall Out Boy",
+      "title": "Save Rock and Roll"
     },
     "others": [
       "Charli XCX - True Romance",
@@ -189,13 +243,16 @@
   {
     "edition": "2012",
     "first": {
-      "artist": "Lana Del Rey", "title": "Born to Die"
+      "artist": "Lana Del Rey",
+      "title": "Born to Die"
     },
     "second": {
-      "artist": "Kendrick Lamar", "title": "good kid, m.A.A.d city"
+      "artist": "Kendrick Lamar",
+      "title": "good kid, m.A.A.d city"
     },
     "third": {
-      "artist": "Vanilla Sky", "title": "The Band Not The Movie"
+      "artist": "Vanilla Sky",
+      "title": "The Band Not The Movie"
     },
     "others": [
       "The Maccabees - Given to the Wild",
@@ -213,139 +270,173 @@
   {
     "edition": "2011",
     "first": {
-      "artist": "Yellowcard", "title": "When You're Through Thinking Say Yes"
+      "artist": "Yellowcard",
+      "title": "When You're Through Thinking Say Yes"
     },
     "second": {
-      "artist": "Jay-Z & Kanye West", "title": "Watch the Throne"
+      "artist": "Jay-Z & Kanye West",
+      "title": "Watch the Throne"
     },
     "third": {
-      "artist": "Ed Sheehan", "title": "+"
+      "artist": "Ed Sheehan",
+      "title": "+"
     }
   },
   {
     "edition": "2010",
     "first": {
-      "artist": "Eminem", "title": "Recovery"
+      "artist": "Eminem",
+      "title": "Recovery"
     },
     "second": {
-      "artist": "Ellie Goulding", "title": "Bright Lights"
+      "artist": "Ellie Goulding",
+      "title": "Bright Lights"
     },
     "third": {
-      "artist": "Jónsi", "title": "Go"
+      "artist": "Jónsi",
+      "title": "Go"
     }
   },
   {
     "edition": "2009",
     "first": {
-      "artist": "The Maccabees", "title": "Wall of Arms"
+      "artist": "The Maccabees",
+      "title": "Wall of Arms"
     },
     "second": {
-      "artist": "Paramore", "title": "Brand New Eyes"
+      "artist": "Paramore",
+      "title": "Brand New Eyes"
     },
     "third": {
-      "artist": "Kelly Clarkson", "title": "All I Ever Wanted"
+      "artist": "Kelly Clarkson",
+      "title": "All I Ever Wanted"
     }
   },
   {
     "edition": "2008",
     "first": {
-      "artist": "Fall Out Boy", "title": "Folie à Deux"
+      "artist": "Fall Out Boy",
+      "title": "Folie à Deux"
     },
     "second": {
-      "artist": "Simple Plan", "title": "Simple Plan"
+      "artist": "Simple Plan",
+      "title": "Simple Plan"
     },
     "third": {
-      "artist": "Death Cab for Cutie", "title": "Narrow Stairs"
+      "artist": "Death Cab for Cutie",
+      "title": "Narrow Stairs"
     }
   },
   {
     "edition": "2007",
     "first": {
-      "artist": "Editors", "title": "An End Has a Start"
+      "artist": "Editors",
+      "title": "An End Has a Start"
     },
     "second": {
-      "artist": "Yellowcard", "title": "Paper Walls"
+      "artist": "Yellowcard",
+      "title": "Paper Walls"
     },
     "third": {
-      "artist": "Jimmy Eat World", "title": "Chase This Light"
+      "artist": "Jimmy Eat World",
+      "title": "Chase This Light"
     }
   },
   {
     "edition": "2006",
     "first": {
-      "artist": "My Chemical Romance", "title": "The Black Parade"
+      "artist": "My Chemical Romance",
+      "title": "The Black Parade"
     },
     "second": {
-      "artist": "Snow Patrol", "title": "Eyes Open"
+      "artist": "Snow Patrol",
+      "title": "Eyes Open"
     },
     "third": {
-      "artist": "Yellowcard", "title": "Lights and Sounds"
+      "artist": "Yellowcard",
+      "title": "Lights and Sounds"
     }
   },
   {
     "edition": "2005",
     "first": {
-      "artist": "Röyksopp", "title": "The Understanding"
+      "artist": "Röyksopp",
+      "title": "The Understanding"
     },
     "second": {
-      "artist": "Death Cab for Cutie", "title": "Plans"
+      "artist": "Death Cab for Cutie",
+      "title": "Plans"
     },
     "third": {
-      "artist": "Weezer", "title": "Make Believe"
+      "artist": "Weezer",
+      "title": "Make Believe"
     }
   },
   {
     "edition": "2004",
     "first": {
-      "artist": "Keane", "title": "Hopes and Fears"
+      "artist": "Keane",
+      "title": "Hopes and Fears"
     },
     "second": {
-      "artist": "My Chemical Romance", "title": "Three Cheers for Sweet Revenge"
+      "artist": "My Chemical Romance",
+      "title": "Three Cheers for Sweet Revenge"
     },
     "third": {
-      "artist": "Jimmy Eat World", "title": "Futures"
+      "artist": "Jimmy Eat World",
+      "title": "Futures"
     }
   },
   {
     "edition": "2003",
     "first": {
-      "artist": "The Perishers", "title": "Let There Be Morning"
+      "artist": "The Perishers",
+      "title": "Let There Be Morning"
     },
     "second": {
-      "artist": "Yellowcard", "title": "Ocean Avenue"
+      "artist": "Yellowcard",
+      "title": "Ocean Avenue"
     },
     "third": {
-      "artist": "The Knife", "title": "Deep Cuts"
+      "artist": "The Knife",
+      "title": "Deep Cuts"
     }
   },
   {
     "edition": "2002",
     "first": {
-      "artist": "New Found Glory", "title": "Sticks and Stones"
+      "artist": "New Found Glory",
+      "title": "Sticks and Stones"
     },
     "second": {
-      "artist": "Eminem", "title": "8 Mile"
+      "artist": "Eminem",
+      "title": "8 Mile"
     },
     "third": {
-      "artist": "Simple Plan", "title": "No Pads, No Helmets… Just Balls"
+      "artist": "Simple Plan",
+      "title": "No Pads, No Helmets… Just Balls"
     }
   },
   {
     "edition": "2001",
     "first": {
-      "artist": "Blink 182", "title": "Take Off Your Pants and Jacket"
+      "artist": "Blink 182",
+      "title": "Take Off Your Pants and Jacket"
     },
     "second": {
-      "artist": "Travis", "title": "The Invisible Band"
+      "artist": "Travis",
+      "title": "The Invisible Band"
     },
     "third": {
-      "artist": "Depeche Mode", "title": "Exciter"
+      "artist": "Depeche Mode",
+      "title": "Exciter"
     }
   },
   {
     "edition": "2000",
     "first": {
-      "artist": "Coldplay", "title": "Parachutes"
+      "artist": "Coldplay",
+      "title": "Parachutes"
     }
   }
 ]
