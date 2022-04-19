@@ -1,4 +1,4 @@
 ---
-title: "Best Actress"
-weight: 5
+title: "Best Actor"
+weight: 4
 ---
