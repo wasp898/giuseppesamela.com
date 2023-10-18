@@ -2,7 +2,7 @@
 title: "The Banshees of Inisherin"
 directors: "Martin McDonagh"
 writers: "Martin McDonagh"
-composers: "Carter Burwell"
+composer: "Carter Burwell"
 dp: "Ben Davis"
 editor: "Mikkel E.G. Nielsen"
 link: https://www.imdb.com/title/tt11813216

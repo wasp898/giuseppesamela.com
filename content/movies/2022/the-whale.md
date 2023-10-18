@@ -2,7 +2,7 @@
 title: "The Whale"
 directors: "Darren Aronofsky"
 writers: "Samuel D. Hunter"
-composers: "Rob Simonsen"
+composer: "Rob Simonsen"
 dp: "Matthew Libatique"
 editor: "Andrew Weisblum"
 link: https://www.imdb.com/title/tt13833688

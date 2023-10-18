@@ -2,7 +2,7 @@
 title: "Elvis"
 directors: "Baz Luhrmann"
 writers: "Baz Luhrmann, Sam Bromell, Craig Pearce, Jeremy Doner"
-composers: "Elliott Wheeler"
+composer: "Elliott Wheeler"
 dp: "Mandy Walker"
 editor: "Jonathan Redmond, Matt Villa"
 link: https://www.imdb.com/title/tt3704428

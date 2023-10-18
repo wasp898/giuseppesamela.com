@@ -2,7 +2,7 @@
 title: "Decision to Leave"
 directors: "Park Chan-wook"
 writers: "Park Chan-wook, Chung Seo-kyung"
-composers: "Young Wuk Cho"
+composer: "Young Wuk Cho"
 dp: "Kim Ji-yong"
 editor: "Kim Sang-beom"
 link: https://www.imdb.com/title/tt12477480

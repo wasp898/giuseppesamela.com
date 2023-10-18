@@ -2,7 +2,7 @@
 title: "The Batman"
 directors: "Matt Reeves"
 writers: "Matt Reeves, Peter Craig"
-composers: "Michael Giacchino"
+composer: "Michael Giacchino"
 dp: "Greig Fraser"
 editor: "William Hoy, Tyler Nelson"
 link: https://www.imdb.com/title/tt1877830
