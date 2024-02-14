@@ -1,5 +1,27 @@
 [
   {
+    "edition": "2023",
+    "first": {
+      "artist": "Caroline Polachek",
+      "title": "Desire, I Want to Turn Into You"
+    },
+    "second": {
+      "artist": "Paramore",
+      "title": "This Is Why"
+    },
+    "third": {
+      "artist": "Blink 182",
+      "title": "ONE MORE TIME..."
+    },
+    "others": [
+      { "artist": "Blusher", "title": "Should We Go Dance?" },
+      {
+        "artist": "Metro Boomin",
+        "title": "Spider-Man: Across the Spider-Verse"
+      }
+    ]
+  },
+  {
     "edition": "2022",
     "first": {
       "artist": "Charli XCX",
