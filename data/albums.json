@@ -24,16 +24,16 @@
   {
     "edition": "2022",
     "first": {
+      "artist": "Demi Lovato",
+      "title": "HOLY FVCK"
+    },
+    "second": {
       "artist": "Charli XCX",
       "title": "Crash"
     },
-    "second": {
+    "third": {
       "artist": "Carly Rae Jepsen",
       "title": "The Loneliest Time"
-    },
-    "third": {
-      "artist": "Demi Lovato",
-      "title": "HOLY FVCK"
     },
     "others": [
       { "artist": "Alec Benjamin", "title": "(Un)Commentary" },
