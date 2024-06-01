@@ -10,4 +10,5 @@ actors: [Idris Elba]
 rating: B
 weight: -2015
 ---
-A drama based on the experiences of Agu, a child soldier fighting in the civil war of an unnamed African country. 
+
+A drama based on the experiences of Agu, a child soldier fighting in the civil war of an unnamed African country.
