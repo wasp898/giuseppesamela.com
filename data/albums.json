@@ -2,23 +2,25 @@
   {
     "edition": "2023",
     "first": {
-      "artist": "Caroline Polachek",
-      "title": "Desire, I Want to Turn Into You"
-    },
-    "second": {
-      "artist": "Paramore",
-      "title": "This Is Why"
-    },
-    "third": {
       "artist": "Blink 182",
       "title": "ONE MORE TIME..."
     },
+    "second": {
+      "artist": "Caroline Polachek",
+      "title": "Desire, I Want to Turn Into You"
+    },
+    "third": {
+      "artist": "Paramore",
+      "title": "This Is Why"
+    },
     "others": [
       { "artist": "Blusher", "title": "Should We Go Dance?" },
+      { "artist": "Ellie Goulding", "title": "Higher Than Heaven" },
       {
         "artist": "Metro Boomin",
         "title": "Spider-Man: Across the Spider-Verse"
-      }
+      },
+      { "artist": "Olivia Rodrigo", "title": "GUTS" }
     ]
   },
   {
