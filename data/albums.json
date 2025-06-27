@@ -1,26 +1,42 @@
 [
   {
+    "edition": "2024",
+    "first": { "artist": "Allie X", "title": "Girl With No Name" },
+    "second": { "artist": "Sabrina Carpenter", "title": "Short n' Sweet" },
+    "third": { "artist": "Charli XCX", "title": "BRAT" },
+    "others": [
+      { "artist": "Ariana Grande", "title": "eternal sunshine" },
+      { "artist": "Billie Eilish", "title": "HIT ME HARD AND SOFT" },
+      { "artist": "Camila Cabello", "title": "C,XOXO" },
+      { "artist": "Dua Lipa", "title": "Radical Optimism" },
+      { "artist": "Kendrick Lamar", "title": "GNX" },
+      { "artist": "Sia", "title": "Reasonable Woman" }
+    ]
+  },
+  {
     "edition": "2023",
     "first": {
       "artist": "Blink 182",
       "title": "ONE MORE TIME..."
     },
-    "second": {
-      "artist": "Caroline Polachek",
-      "title": "Desire, I Want to Turn Into You"
-    },
+    "second": { "artist": "Olivia Rodrigo", "title": "GUTS" },
     "third": {
       "artist": "Paramore",
       "title": "This Is Why"
     },
     "others": [
       { "artist": "Blusher", "title": "Should We Go Dance?" },
+      {
+        "artist": "Caroline Polachek",
+        "title": "Desire, I Want to Turn Into You"
+      },
       { "artist": "Ellie Goulding", "title": "Higher Than Heaven" },
       {
         "artist": "Metro Boomin",
         "title": "Spider-Man: Across the Spider-Verse"
       },
-      { "artist": "Olivia Rodrigo", "title": "GUTS" }
+      { "artist": "Pink", "title": "TRUSTFALL" },
+      { "artist": "Troye Sivan", "title": "Something to Give Each Other" }
     ]
   },
   {
@@ -252,17 +268,16 @@
       "title": "Ghost Stories"
     },
     "third": {
-      "artist": "Sia",
-      "title": "1000 Forms of Fear"
+      "artist": "Bleachers",
+      "title": "Strange Desire"
     },
     "others": [
       "20 syl - Motifs EP",
       "Ariana Grande - My Everything",
-      "Charli XCX - Sucker",
       "Ed Sheehan - x",
+      "Jasmine Thompson - Another Bundle of Tantrums",
       "Lana Del Rey - Ultraviolence",
-      "Royksopp - The Inevitable End",
-      "The Hoosiers - The News From Nowhere",
+      "Sia - 1000 Forms of Fear",
       "Walk the Moon - Talking is Hard"
     ]
   },
@@ -277,17 +292,21 @@
       "title": "AM"
     },
     "third": {
-      "artist": "Fall Out Boy",
-      "title": "Save Rock and Roll"
+      "artist": "Lorde",
+      "title": "Pure Heroine"
     },
     "others": [
       "Charli XCX - True Romance",
       "CHVRCHES - The Bones of What You Believe",
+      "Daughtry - Baptized",
       "Editors - The Weight of Your Love",
+      "Fall Out Boy - Save Rock and Roll",
+      "Jimmy Eat World - Damage",
       "Katy Perry - Prism",
-      "Lorde - Pure Heroine",
+      "Naughty Boy - Hotel Cabana",
       "Sigur Ros - Kveikur",
-      "Stromae - Racine Carrée"
+      "Stromae - Racine Carrée",
+      "The 1975 - The 1975"
     ]
   },
   {
@@ -305,13 +324,13 @@
       "title": "The Band Not The Movie"
     },
     "others": [
-      "The Maccabees - Given to the Wild",
-      "La Fame di Camilla - L’Attesa",
       "Carly Rae Jepsen - Kiss",
+      "La Fame di Camilla - L’Attesa",
       "Keane - Strangeland",
       "Linkin Park - Living Things",
       "Santigold - Master of My Make-Believe",
       "The Black Keys - El Camino",
+      "The Maccabees - Given to the Wild",
       "The Temper Trap - The Temper Trap",
       "Walk The Moon - Walk the Moon",
       "Yellowcard - Southern Air"
