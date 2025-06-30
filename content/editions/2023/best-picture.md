@@ -2,7 +2,7 @@
 title: "Best Picture"
 edition: 2023
 film: saltburn.md
-image: https://m.media-amazon.com/images/M/MV5BZmE0MmE1ZjgtOGQ3OC00MzdjLTk4YWItOTVmY2Q3N2E4NzgxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1024_.jpg
+image: https://m.media-amazon.com/images/M/MV5BOTI0NzEwNjQtMmFjZC00Y2RmLWIyZDUtNTM5N2FkMzg2ODcxXkEyXkFqcGc@._V1_FMjpg_UX1024_.jpg
 type: award
 weight: 1
 ---
