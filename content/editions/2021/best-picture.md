@@ -2,7 +2,7 @@
 title: "Best Picture"
 edition: 2021
 film: dune.md
-image: https://m.media-amazon.com/images/M/MV5BN2FmOTAwZDQtZTA2OC00ZjQ4LWI0YWQtM2ExODk4NTA0OTExXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg
+image: https://m.media-amazon.com/images/M/MV5BYzM0ZDY1NWYtM2UyMS00M2Q3LTlmYWYtYWMwZjhjMDg1NDU3XkEyXkFqcGc@._V1_FMjpg_UX1024_.jpg
 type: award
 weight: 1
 ---
