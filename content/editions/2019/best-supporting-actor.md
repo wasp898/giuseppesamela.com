@@ -4,7 +4,7 @@ edition: 2019
 winner: "Al Pacino"
 kind: "actor"
 film: the-irishman.md
-image: https://m.media-amazon.com/images/M/MV5BMjkxZjQ2MzMtYmU0Yy00NTUzLTljMWQtYzk4ZjRjNTc0YmI5XkEyXkFqcGdeQXVyNjE3NDE2Mzc@._V1_FMjpg_UX1024_.jpg
+image: https://m.media-amazon.com/images/M/MV5BNGE1ZjI1NDUtMzI1ZS00N2NkLThkNDAtMWE4OTk0ZmRiNDViXkEyXkFqcGc@._V1_FMjpg_UX1024_.jpg
 type: award
 weight: 6
 ---

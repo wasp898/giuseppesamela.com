@@ -3,7 +3,7 @@ title: "Best Score"
 edition: 2018
 kind: "technical"
 film: first-man.md
-image: https://m.media-amazon.com/images/M/MV5BZDIzMzVhNDMtYjNjYy00ZGQyLTllM2MtN2RlOGU5MDNiMmIzXkEyXkFqcGdeQXVyMzY0Mjc0NTM@._V1_FMjpg_UX1280_.jpg
+image: https://m.media-amazon.com/images/M/MV5BMTYwMzM0MjA3N15BMl5BanBnXkFtZTgwMDg1ODA1NjM@._V1_FMjpg_UX1024_.jpg
 type: award
 weight: 12
 ---

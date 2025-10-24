@@ -3,7 +3,7 @@ title: "Best Production Design"
 edition: 2019
 kind: "technical"
 film: OUATIH.md
-image: https://m.media-amazon.com/images/M/MV5BNzVhOWRmZGYtNzEwNy00YTQ0LTk1OTctYjA1ZGFjZTVhMTI0XkEyXkFqcGdeQXVyNTE0NDA4MjQ@._V1_.jpg
+image: https://m.media-amazon.com/images/M/MV5BYzRjYzE1YmYtZmQ3My00MzI3LTk3MzQtODM1NTc0ZDNhMjEyXkEyXkFqcGc@._V1_FMjpg_UX1024_.jpg
 type: award
 weight: 11
 ---

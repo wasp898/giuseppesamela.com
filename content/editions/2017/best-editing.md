@@ -4,7 +4,7 @@ edition: 2017
 winner: Tatiana S. Riegel
 kind: "technical"
 film: i-tonya.md
-image: https://m.media-amazon.com/images/M/MV5BZDcyOTA0YTctOGVlYS00YWFiLWExYWEtZjY1YmM2NTM3MzgzXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg
+image: https://m.media-amazon.com/images/M/MV5BNjE2NThmZWItZWUyNy00MWQ3LTgxYWEtMjNhMzg5ZWZiMjYwXkEyXkFqcGc@._V1_FMjpg_UX1024_.jpg
 type: award
 weight: 10
 ---
