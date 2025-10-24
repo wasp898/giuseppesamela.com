@@ -1,8 +1,8 @@
 [
   {
     "edition": "2024",
-    "first": { "artist": "Allie X", "title": "Girl With No Name" },
-    "second": { "artist": "Sabrina Carpenter", "title": "Short n' Sweet" },
+    "first": { "artist": "Sabrina Carpenter", "title": "Short n' Sweet" },
+    "second": { "artist": "Allie X", "title": "Girl With No Name" },
     "third": { "artist": "Charli XCX", "title": "BRAT" },
     "others": [
       { "artist": "Ariana Grande", "title": "eternal sunshine" },
