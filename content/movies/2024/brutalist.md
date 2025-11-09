@@ -1,6 +1,6 @@
 ---
 title: "The Brutalist"
-directors: "Sean Baker"
+directors: "Brady Corbet"
 writers: "Brady Corbet & Mona Fastvold"
 dp: "Lol Crawley"
 editor: "Dávid Jancsó"
